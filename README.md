@@ -1,5 +1,5 @@
 # projeto.tpcode  
-Criamos sites modernos, responsivos e estratégicos para posicionar sua marca no ambiente digital.
+Criamos sites modernos, responsivos e estratégicos para posicionar sua marca no ambiente digital.  (empresa ficticia)
 
 Atualizações serão feitas! 
 Daremos os últimos toques no frontend, para melhorar a responsividade para mobile e outras interfaces e alguns detalhes estéticos também!
